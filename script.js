@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
       infoText.textContent = "Text and styles updated, and an element was toggled!";
   
       // Modify CSS styles
-      title.style.color = "teal";
+      title.style.color = "white";
       infoText.style.fontWeight = "bold";
   
       // Add or remove an element
